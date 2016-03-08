@@ -1,0 +1,2 @@
+This library includes digital read and write, analog write, serial1, and master I2C.
+

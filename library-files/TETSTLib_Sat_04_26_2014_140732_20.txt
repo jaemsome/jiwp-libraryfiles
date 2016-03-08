@@ -1,0 +1,11 @@
+This version of the library includes a few new things.  This library should 
+support all the tutorials on the site.  It includes the following routines:
+
+lcd.c (control HD44780 LCD displays)
+masterI2C.c (read and write I2C devices)
+rtos.c (real rtos)
+servo.c (servo driver)
+uart1.c (serial driver for uart 1)
+usb (routines for USB).
+
+Fixes for uart2 support.  These fixes can be found in uart2.c

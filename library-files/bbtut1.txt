@@ -1,0 +1,2 @@
+This is a set of files that goes along with the Blue Bird Tutorial #1.  These files are all you need to run the tutorial.
+
